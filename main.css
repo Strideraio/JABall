@@ -1,3 +1,15 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
 .jumbotron {
   background-image:url('http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Birds/H-P/peregrine-falcon-wings-extended.jpg');
    position: relative;
@@ -21,4 +33,18 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
 }
