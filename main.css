@@ -1,8 +1,8 @@
 .jumbotron {
   background-image:url('http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Birds/H-P/peregrine-falcon-wings-extended.jpg');
   height: 800px;
-  width: 1920px;
-  position: middle;
+  width: 1000px;
+  position: relative;
 }
 
 .jumbotron .container {
